@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/msmirnyagin/webapp/tg-app-dating",
+  "type": [
+    "web"
+  ],
+  "name": "app-dating",
+  "framework": "svelte",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
