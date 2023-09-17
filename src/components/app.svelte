@@ -10,13 +10,9 @@
   let f7params = {
     name: "app-dating", // App name
     theme: "auto", // Automatic theme detection
-
     darkMode: true,
-
-    // App store
-    store: store,
-    // App routes
-    routes: routes,
+    store: store, // App store
+    routes: routes, // App routes
   };
 
   onMount(() => {
